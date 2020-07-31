@@ -7,3 +7,8 @@ https://colab.research.google.com/drive/1XAHBUBxucVsyv5DiiA5d3-gll-WrO3Za?usp=sh
 ## Frequency vs HU units and the corresponding .dcm image
 ![download (4)](https://user-images.githubusercontent.com/45651909/89044986-63a46880-d368-11ea-9892-d847628b1725.png)
 ![IMG-0001-00011](https://user-images.githubusercontent.com/45651909/89045005-67d08600-d368-11ea-9af5-54068a09ace0.jpg)
+
+## 3D images of dicom files: Segmented and rendered
+![download](https://user-images.githubusercontent.com/45651909/89045364-09f06e00-d369-11ea-8042-fc3b249e165c.png)
+![download (2)](https://user-images.githubusercontent.com/45651909/89045376-107ee580-d369-11ea-9180-1206eb77aa28.png)
+![download (3)](https://user-images.githubusercontent.com/45651909/89045383-14126c80-d369-11ea-8edd-4bdd6db3549a.png)
