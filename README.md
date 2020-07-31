@@ -6,7 +6,7 @@ The link for the google colaboratory of dicom visualisation is written is given 
 ![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)(https://colab.research.google.com/drive/1y8qnK2JD8CHo90o8hpXzM1QCcoTA8vlG?usp=sharing]
 
 The link for the google colaboratory where the entire code is written is given below:
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1XAHBUBxucVsyv5DiiA5d3-gll-WrO3Za?usp=sharing]
+![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)(https://colab.research.google.com/drive/1XAHBUBxucVsyv5DiiA5d3-gll-WrO3Za?usp=sharing]
 
 
 ## The  CT scanned image of a lung- 
