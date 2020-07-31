@@ -4,3 +4,6 @@ https://colab.research.google.com/drive/1XAHBUBxucVsyv5DiiA5d3-gll-WrO3Za?usp=sh
 ## The  CT scanned image of a lung- 
 ![IMG-0001-00011](https://user-images.githubusercontent.com/45651909/89043407-0e675780-d366-11ea-861c-0f2f5f5003d6.jpg)
 
+## Frequency vs HU units and the corresponding .dcm image
+![download (4)](https://user-images.githubusercontent.com/45651909/89044986-63a46880-d368-11ea-9892-d847628b1725.png)
+![IMG-0001-00011](https://user-images.githubusercontent.com/45651909/89045005-67d08600-d368-11ea-9af5-54068a09ace0.jpg)
