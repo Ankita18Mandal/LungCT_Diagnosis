@@ -2,7 +2,7 @@
 Repository processes CT scanned  images of human Lungs , which are in DICOM image format. Visualises the data in 3D and trains a 3D convolution network on the data after preprocessing. 
 ## Data Acquisition
 - Data can be obtained from: https://portal.gdc.cancer.gov/
-- You must open with the 
+- You must open with the application below-
 ### NBIA Data Retriever (https://wiki.cancerimagingarchive.net/display/NBIA/Downloading+TCIA+Images)
 ## Google Colab Link
 
